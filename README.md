@@ -1,3 +1,9 @@
+Scrap dictionary from: https://en.wikipedia.org/wiki/Morse_code
+
+Then, convert the string from input to morse and decode it for test.
+
+Scraped dictionary:
+```
 {
     ' ': '    ', 
     'A': '  ▄ ▄▄▄ ', 
@@ -137,3 +143,4 @@
     'Ź': '  ▄▄▄ ▄▄▄ ▄ ▄ ▄▄▄ ▄ ', 
     'ź': '  ▄▄▄ ▄▄▄ ▄ ▄ ▄▄▄ ▄ '
 }
+```
